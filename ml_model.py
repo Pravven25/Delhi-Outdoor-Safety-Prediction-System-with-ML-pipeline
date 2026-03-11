@@ -2,6 +2,7 @@
 Delhi Outdoor Safety Prediction - Machine Learning Model
 Step 3: Training and Evaluating the Prediction Model
 """
+# Copyright (c) 2026 Praveen Kumar. All Rights Reserved.
 
 import pandas as pd
 import numpy as np

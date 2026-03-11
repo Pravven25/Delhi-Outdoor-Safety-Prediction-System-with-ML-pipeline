@@ -2,6 +2,7 @@
 Delhi Outdoor Safety Prediction - Data Collection
 Step 1: Collecting Live Environmental Data
 """
+# Copyright (c) 2026 Praveen Kumar. All Rights Reserved.
 
 import requests
 import pandas as pd

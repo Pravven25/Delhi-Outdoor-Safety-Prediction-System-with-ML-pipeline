@@ -2,6 +2,7 @@
 Delhi Outdoor Safety Prediction - Label Creation
 Step 2: Creating YES/NO safety labels based on health thresholds
 """
+# Copyright (c) 2026 Praveen Kumar. All Rights Reserved.
 
 import pandas as pd
 import numpy as np

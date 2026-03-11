@@ -2,6 +2,7 @@
 Delhi Outdoor Safety - Real-Time Prediction System
 Step 4: Making predictions with live data
 """
+# Copyright (c) 2026 Praveen Kumar. All Rights Reserved.
 
 import joblib
 import pandas as pd

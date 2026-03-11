@@ -3,6 +3,7 @@ Delhi Outdoor Safety Prediction System
 Professional Streamlit Dashboard
 Perfect for Project Demo and Interviews!
 """
+# Copyright (c) 2026 Praveen Kumar. All Rights Reserved.
 
 import streamlit as st
 import pandas as pd
